@@ -1,0 +1,11 @@
+C:\Users\Christoph\documents\visual studio 2010\Projects\CubeGDI3D\CubeGDI3D\bin\Debug\CubeGDI3D.exe
+C:\Users\Christoph\documents\visual studio 2010\Projects\CubeGDI3D\CubeGDI3D\bin\Debug\CubeGDI3D.pdb
+C:\Users\Christoph\documents\visual studio 2010\Projects\CubeGDI3D\CubeGDI3D\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Christoph\documents\visual studio 2010\Projects\CubeGDI3D\CubeGDI3D\obj\x86\Debug\CubeGDI3D.Form1.resources
+C:\Users\Christoph\documents\visual studio 2010\Projects\CubeGDI3D\CubeGDI3D\obj\x86\Debug\CubeGDI3D.Properties.Resources.resources
+C:\Users\Christoph\documents\visual studio 2010\Projects\CubeGDI3D\CubeGDI3D\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Christoph\documents\visual studio 2010\Projects\CubeGDI3D\CubeGDI3D\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Christoph\documents\visual studio 2010\Projects\CubeGDI3D\CubeGDI3D\obj\x86\Debug\CubeGDI3D.exe
+C:\Users\Christoph\documents\visual studio 2010\Projects\CubeGDI3D\CubeGDI3D\obj\x86\Debug\CubeGDI3D.pdb
+C:\Users\Christoph\Documents\Visual Studio 2010\Projects\CubeGDI3D\CubeGDI3D\bin\Debug\CubeGDI3D.exe.config
+C:\Users\Christoph\Documents\Visual Studio 2010\Projects\CubeGDI3D\CubeGDI3D\bin\Debug\VirtualRubik.exe.config
